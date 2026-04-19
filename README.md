@@ -1,10 +1,10 @@
-🚀 Learning Journey in Data Engineering
+Learning Journey in Data Engineering
 
 As part of my learning in Data Engineering, I built a small hands-on project using **SSIS and SQL Server** to understand how data moves from raw source to a structured format ready for analysis.
 
 The main focus was not the size of the data, but understanding the **end-to-end data flow concepts**.
 
-🔧 **What I practiced:**
+ **What I practiced:**
 
 * Designing a basic **Star Schema (Fact & Dimension tables)**
 * Building simple **ETL pipelines using SSIS** (Extract, Transform, Load)
@@ -13,7 +13,7 @@ The main focus was not the size of the data, but understanding the **end-to-end 
 * Generating **Date and Time dimensions** to support time-based analysis
 * Using **Lookup transformations** for key mapping (Surrogate Keys)
 
-📊 **What I explored in analysis:**
+**What I explored in analysis:**
 
 * Basic sales trends over time
 * Identifying peak sales periods
@@ -21,12 +21,12 @@ The main focus was not the size of the data, but understanding the **end-to-end 
 * Understanding customer behavior patterns
 * Contribution of products to total sales
 
-🧠 **SQL practice included:**
+ **SQL practice included:**
 
 * Simple ranking queries using window functions
 * Aggregations over time periods
 * Basic customer metrics like average order value
 
-💡 This project helped me understand the full lifecycle of data — from raw tables to structured models that can be used for analysis.
+ This project helped me understand the full lifecycle of data — from raw tables to structured models that can be used for analysis.
 
-📌 I’m currently learning and improving in the field of **Data Engineering** and looking forward to internship opportunities where I can gain more hands-on experience.
+ I’m currently learning and improving in the field of **Data Engineering** and looking forward to internship opportunities where I can gain more hands-on experience.
